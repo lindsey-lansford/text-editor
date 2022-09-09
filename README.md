@@ -15,8 +15,7 @@ This is  a single-page, text editor application that runs in the browser and mee
   - [How to Contribute](#how-to-contribute)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Mockup Images](#mockups)
-  - [Walkthrough Demonstration Videos](#walkthrough-demonstration-videos)
+  - [Heroku URL](#heroku-url)
 
 ## Installation
 
