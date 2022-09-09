@@ -33,7 +33,7 @@ registerRoute(
   ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
   new CacheFirst({
     // Name of the cache storage.
-    cacheName: 'jate-image-cache',
+    cacheName: 'jate-asset-cache',
     plugins: [
       // This plugin will cache responses with these headers to a maximum-age of 30 days
       new CacheableResponsePlugin({
