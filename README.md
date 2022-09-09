@@ -71,13 +71,6 @@ Please reach out with any questions you may have about this application.
 * :octocat: GitHub: [@lindsey-lansford](https://github.com/lindsey-lansford)
 * :envelope: Email: lindsey.lansford@gmail.com
 
--------------------------------------------------------
-## Mockups
+### Mockups
 
-![Screenshot of the 'users' collection documents via Compass](./assets/compass.png)
-
-![Screenshot of the the 'thoughts data via Insomnia](./assets/insomnia.png)
--------------------------------------------------------
-## Walkthrough Demonstration Videos
-
-*--->* [Intro + Compass Data](https://drive.google.com/file/d/1GvbVHKgCo9b5GVo_vmX8nCH3zYry1Scs/view?usp=sharing)
+![Screenshot](./assets/compass.png)
