@@ -71,6 +71,6 @@ Please reach out with any questions you may have about this application.
 * :octocat: GitHub: [@lindsey-lansford](https://github.com/lindsey-lansford)
 * :envelope: Email: lindsey.lansford@gmail.com
 
-### Mockups
+## Heroku URL
 
-![Screenshot](./assets/compass.png)
+[Heroku Deployed URL](https://enigmatic-plains-15102.herokuapp.com/)
