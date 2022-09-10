@@ -16,6 +16,7 @@ This is  a single-page, text editor application that runs in the browser and mee
   - [Tests](#tests)
   - [Questions](#questions)
   - [Heroku URL](#heroku-url)
+  - [Mockup Images](#mockups)
 
 ## Installation
 
@@ -73,3 +74,5 @@ Please reach out with any questions you may have about this application.
 ## Heroku URL
 
 [Heroku Deployed URL](https://enigmatic-plains-15102.herokuapp.com/)
+
+## Mockups
