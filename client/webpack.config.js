@@ -35,11 +35,11 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Text Editor',
-        display: 'standalone',
+        display: "standalone",
         short_name: 'JATE',
         description: 'Just Another Text Editor',
-        background_color: '#7eb4e2',
-        theme_color: '#7eb4e2',
+        background_color: '#272822',
+        theme_color: '#31A9E1',
         start_url: '/',
         publicPath: '/',
         icons: [
@@ -56,7 +56,7 @@ module.exports = () => {
       // CSS loaders
       rules: [
         {
-          test: /\.css$/i,
+          test: /\.css$/,
           use: ['style-loader', 'css-loader'],
         },
         {

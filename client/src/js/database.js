@@ -27,7 +27,7 @@ export const putDb = async (content) => {
   // Open up the desired object store.
   const store = tx.objectStore('jate');
   // Use the .put() method to get & update data in the database.
-  const request = store.put({ jate: content });
+  const request = store.add({ content: content });
   // Get confirmation of the request.
   const result = await request;
   console.log('Data saved to the database', result);

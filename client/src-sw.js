@@ -46,14 +46,14 @@ registerRoute(
 registerRoute(
   ({ request }) => request.destination === 'image',
   new CacheFirst({
-    cacheName: 'jate-image-cache',
+    cacheName: 'my-image-cache',
     plugins: [
       new CacheableResponsePlugin({
-        statuses: [200],
+        statuses: [0, 200],
       }),
       new ExpirationPlugin({
         maxEntries: 20,
-        maxAgeSeconds: 60 * 60 * 24 * 30,
+        maxAgeSeconds: 60 * 60 * 24 * 30, // 30 Days
       }),
     ],
   })
