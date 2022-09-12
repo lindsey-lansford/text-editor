@@ -76,3 +76,6 @@ Please reach out with any questions you may have about this application.
 [Heroku Deployed URL](https://enigmatic-plains-15102.herokuapp.com/)
 
 ## Mockups
+
+Here is an example screenshot of the application in the browser, running locally.
+![Screenshot of a application](./assets/jateScreenshot.png)
