@@ -26,10 +26,10 @@ module.exports = () => {
         title: 'Text Editor',
       }),
       // Injects our custom service worker
-      // new InjectManifest({
-      //   swSrc: './src-sw.js',
-      //   swDest: 'src-sw.js',
-      // }),
+      new InjectManifest({
+        swSrc: './src-sw.js',
+        swDest: './src-sw.js',
+      }),
       // Creates a manifest.json file.
       new WebpackPwaManifest({
         fingerprints: false,
